@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1560168988 source:z:\programing fundamentals\theory\projects\mini project 3\main contest\codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tasks.h"
+	"auto_grader.h"
+
+1560165762 z:\programing fundamentals\theory\projects\mini project 3\main contest\codeblocks\tasks.h
+
+1560165778 z:\programing fundamentals\theory\projects\mini project 3\main contest\codeblocks\auto_grader.h
+
+1560217515 source:z:\programing fundamentals\theory\projects\mini project 3\main contest\codeblocks\tasks.c
+	<stdio.h>
+	<stdlib.h>
+	"tasks.h"
+
+1560218112 source:d:\main contest\codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tasks.h"
+	"auto_grader.h"
+
+1560165762 d:\main contest\codeblocks\tasks.h
+
+1560165778 d:\main contest\codeblocks\auto_grader.h
+
+1560519790 source:d:\main contest\codeblocks\tasks.c
+	<stdio.h>
+	<stdlib.h>
+	"tasks.h"
+
+1560218112 source:c:\users\psf\desktop\c programs\icp\fp labs\main contest\codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tasks.h"
+	"auto_grader.h"
+
+1560165762 c:\users\psf\desktop\c programs\icp\fp labs\main contest\codeblocks\tasks.h
+
+1560165778 c:\users\psf\desktop\c programs\icp\fp labs\main contest\codeblocks\auto_grader.h
+
+1560519790 source:c:\users\psf\desktop\c programs\icp\fp labs\main contest\codeblocks\tasks.c
+	<stdio.h>
+	<stdlib.h>
+	"tasks.h"
+
