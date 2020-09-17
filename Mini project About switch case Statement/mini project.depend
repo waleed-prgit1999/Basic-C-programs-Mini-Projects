@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555526823 source:c:\users\psf\desktop\c programs\mini project\main.c
+	<stdio.h>
+	<conio.h>
+
